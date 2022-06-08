@@ -1,0 +1,34 @@
+_repo: Saint-Michel-et-le-Mont-Saint-Michel_68245
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Brin, P. M.
+    gutenberg_agent_id: '54673'
+    url: http://www.gutenberg.org/2009/agents/54673
+  - agent_name: Corroyer, Édouard
+    alias: Corroyer, Édouard
+    deathdate: 1904
+    gutenberg_agent_id: '48001'
+    url: http://www.gutenberg.org/2009/agents/48001
+    wikipedia: https://fr.wikipedia.org/wiki/%C3%89douard_Corroyer
+  - agent_name: Germain, Mgr
+    gutenberg_agent_id: '54672'
+    url: http://www.gutenberg.org/2009/agents/54672
+description: ''
+gutenberg_issued: '2022-06-05'
+identifiers:
+  gutenberg: '68245'
+language: fr
+pgterms:marc905: 20200703061637germain
+pgterms:marc906: '1880'
+pgterms:marc907: FR
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: France :Firmin-Didot,1880.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Saint Michel et le Mont-Saint-Michel
+url: http://www.gutenberg.org/ebooks/68245
